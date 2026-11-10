@@ -1,17 +1,18 @@
 # Integração de Dados: implantação, consultas e validação
 
 **Disciplina:** Banco de Dados (SIS242M01)  
-**Trabalho:** individual ou em dupla (à escolha do aluno)  
+**Trabalho:** Harrison Ambrozio / Fernando Filho  
 **Prazo de entrega:** 24/11/2026
 
 ## Equipe
 
-**Nome da dupla:** ____________________ (deixe em branco se for individual)
+**Nome da dupla:** Harrison Ambrozio / Fernando Filho
+(deixe em branco se for individual)
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
+| Fernando Filho | 2536250 | Nanduou |
+| Harrison Ambrozio | 2534655 | HarrisonAmbrosio |
 
 ## O cenário
 
